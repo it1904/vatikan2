@@ -1,0 +1,32 @@
+[
+    {
+        "id":"sta",
+        "name":"Staré Zahrady",
+        "desc":"Vatikánské zahrady tvoří park, který zaujímá více než polovinu území městského státu Vatikán. Dosahuje rozlohy zhruba 23 hektarů. Nejvyšší bod se nachází ve výšce 60 m n. m. a je nejvyšším bodem celého Vatikánu.",
+        "img":"stare.jpg"
+    },
+    {
+        "id":"nov",
+        "name":"Nové Zahrady",
+        "desc":"Vatikánské zahrady tvoří park, který zaujímá více než polovinu území městského státu Vatikán. Dosahuje rozlohy zhruba 23 hektarů. Nejvyšší bod se nachází ve výšce 60 m n. m. a je nejvyšším bodem celého Vatikánu.",
+        "img":"nove.jpg"
+    },
+    {
+        "id":"baz",
+        "name":"Bazilika Sv. Petra",
+        "desc":"Bazilika sv. Petra ve Vatikánu (italsky basilica di San Pietro in Vaticano, také Svatopetrský dóm nebo Vatikánská bazilika) je jedna ze čtyř římských papežských (do roku 2008 patriarchálních) či velkých bazilik a jeden z největších kostelů na světě.",
+        "img":"bazilika.jpg"
+    },
+    {
+        "id":"nam",
+        "name":"Náměstí Sv. Petra",
+        "desc":"Svatopetrské náměstí (italsky Piazza San Pietro) je hlavní vatikánské náměstí ležící před bazilikou sv. Petra. Patří k nejkrásnějším veřejným prostranstvím na světě. Dnešní monumentální podobu dostalo za papeže Alexandra VII. (1655-1667).",
+        "img":"namesti.jpg"
+    },
+    {
+        "id":"muz",
+        "name":"Vatikánská Muzea",
+        "desc":"Vatikánská muzea (italsky: Musei Vaticani) ve Vatikáně jsou jedním z největších komplexů uměleckých sbírek na světě. Vystavuje sbírky starožitností a uměleckých děl od starověku po současnost. Ve sbírkách má asi 70 tisíc objektů, z nichž je asi 20 tisíc vystaveno. Se 6 miliony návštěvníků v roce 2013 je to šesté nejnavštěvovanější muzeum na světě.",
+        "img":"muzeum.jpg"
+    }
+]

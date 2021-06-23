@@ -1,0 +1,27 @@
+.navbar-dark{
+    background-color: rgb(51, 48, 48);
+    font-size: 1.15em;
+    top: 0;
+    position: sticky;
+}
+.jumbotron-fluid{
+    background-color: goldenrod;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    background-color: goldenrod;
+}
+h3{
+    color: goldenrod;
+    font-weight: bold !important;
+    padding-left: 10px;
+}
+.badge-success{
+    background-color: goldenrod !important;
+}
+.linkkk, .linkkk:hover{
+    text-decoration: none;
+    color: goldenrod;
+    font-weight: bold;
+}

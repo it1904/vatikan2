@@ -1,0 +1,25 @@
+[
+    {
+       "name":"Pietro Gasparri",
+       "birth":"31.3.1877",
+       "death":"6.3.1898",
+       "biography":"Pietro kardinál Gasparri (5. května 1852 Capovallazza di Ussita – 18. listopadu 1934 Řím) byl církevním právníkem, duchovním a vatikánským státním sekretářem, který se zasloužil o vydání Kodexu kanonického práva a uzavření Lateránských dohod.",
+       "portraits":[
+          "pietro1.jpg",
+          "pietro2.jpg"
+       ],
+       "online":"https://cs.wikipedia.org/wiki/Pietro_Gasparri"
+    },
+    {
+        "name":"František",
+        "birth":"17.12.1936",
+        "death":" ",
+        "biography":"František (latinsky Franciscus), vlastním jménem Jorge Mario Bergoglio SJ (* 17. prosince 1936 Buenos Aires), je 266. papež katolické církve, římský biskup a suverén státu Vatikán, jehož zvolilo konkláve dne 13. března 2013. Stal se prvním papežem pocházejícím z amerického kontinentu a prvním z Tovaryšstva Ježíšova (jezuitského řádu). Jde rovněž o prvního mimoevropského papeže od 8. století, kdy římskokatolickou církev vedl sv. Řehoř III. pocházející ze Sýrie.",
+        "portraits":[
+           "papez1.jpg",
+           "papez2.jpg",
+           "papez3.jpg"
+        ],
+        "online":"https://cs.wikipedia.org/wiki/Franti%C5%A1ek_(pape%C5%BE)"
+     }
+ ]
